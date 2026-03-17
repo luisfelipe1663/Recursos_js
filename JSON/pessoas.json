@@ -1,0 +1,21 @@
+[{
+        "nome": "Luis",
+        "idade": 17,
+        "estuda": true,
+        "detalhes_estudo": {
+            "curso": "Logica de Pogramação",
+            "instituição": "Senac"
+        },
+        "hobbies": ["musculação", "boxe", "desenhar"]
+    },
+    {
+        "nome": "Emilli",
+        "idade": 17,
+        "estuda": true,
+        "detalhes_estudo": {
+            "curso": "Ensino Medio",
+            "instituição": "Miguel oliva Feitosa"
+        },
+        "hobbies": ["Comer", "Musica", "Dançar"]
+    }
+]
